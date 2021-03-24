@@ -21,3 +21,5 @@ How to contribute text added.
 ## Copyright section
 
 2021 Git.Training
+
+Please fork this repository and then issue Pull requests for review.
