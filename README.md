@@ -17,3 +17,7 @@ Deployment section added.
 ## How to contribute
 
 How to contribute text added.
+
+## Copyright section
+
+2021 Git.Training
